@@ -1,6 +1,7 @@
 Used R to answer the questions: 
   What happens to the fibroblast transcriptome when the cells become senescent? 
   What then happens to the fibroblast transcriptome when senescent cells have their mitochondria depleted?
+Grade: A4
 
 Input Required:
 1. Expression Table with sample names as column names and gene IDs as row names
